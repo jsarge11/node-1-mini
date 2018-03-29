@@ -14,4 +14,4 @@ app.delete('/api/books/:id', bc.delete)
 
 const port = 3000;
 
-app.listen(port, ()=>console.log(`The Khala speaks to you on ${port}, James Raynor.`))
+app.listen(port, ()=>console.log(`The Khala speaks to you on ${port}, friend.`))
